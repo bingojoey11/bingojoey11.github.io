@@ -1,0 +1,1 @@
+document.getElementById("second_title").innerHTML = YOOO;
