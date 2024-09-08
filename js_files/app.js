@@ -1,1 +1,1 @@
-document.getElementById("second_title").innerHTML = YOOO;
+document.getElementById("second_title").innerHTML = "YOOO";
