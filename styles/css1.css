@@ -2,3 +2,15 @@ h1, h2{
     text-align: center;
 }
 
+.main_block{
+    width: 800px;
+    height: 1000px;
+    background-color: rgba(130, 76, 230, 0.397);
+    margin-left: auto;  
+    margin-right: auto;
+}
+
+body{
+    background-image: url("/imgs/background.jpg");
+    background-color: rgba(149, 139, 243, 0.87);
+}
